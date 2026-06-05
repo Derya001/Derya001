@@ -18,7 +18,7 @@
 
 - 🏠 **[homelab-platform](https://github.com/Derya001/homelab-platform)** — K3s + AWX + GitOps + IoT smart greenhouse on Raspberry Pi 4
 - 🤖 **[arbitrazs-bot](https://github.com/Derya001/arbitrazs-bot)** — Sports arbitrage automation bot (Python, Playwright, Telegram)
-- 🏥 **Psychiatric patient simulator** — LLM-based medical education system for university students (Claude API, in collaboration with PTE)
+- 🏥 **AI simulate patient** — LLM-based medical education system for university students (Claude API, in collaboration with PTE)
 
 ---
 
